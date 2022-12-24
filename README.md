@@ -1,59 +1,44 @@
-# ✨  Glory Luxe ✨
+## Description : 
+The reason is simple: because the more you look beautiful, the more you feel good about yourself. There's a psychological connection between the concept of beauty and self-confidence. Generally, the people who know to be attractive tend to be more self-confident in their own skills.
 
-This is a web based application developed for health related based website in india
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+Web Technologies used: HTML, CSS, JS.
 
+IDE: VS-Code
 
-**Project Link** -https://green-cliff-01504af00.2.azurestaticapps.net
+Industry : Lifestyle
 
-**project demo video link** - https://www.youtube.com/watch?v=4jPn0v8PblM&t=0s
+Project Title : Gloryluxe
 
-## Azure technologies used for Project
+Problem Statement/Opportunity : Every One Has Different Lifestyle activities could follow.
 
-- Static web apps
-- Health bot
+Project Description : Best lifestyle can change our daily activities.
 
-## Features and Functionalities 😃
+Primary Azure Technology : Static Web Apps, App Service
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+Static Web App URL : https://green-cliff-01504af00.2.azurestaticapps.net/
 
-## Screenshots
+App Services URL : https://gloryluxe.azurewebsites.net/
 
+## My Project Website Link : https://green-cliff-01504af00.2.azurestaticapps.net/contact.html
 
-![Screenshot (1)](https://user-images.githubusercontent.com/112747330/202755643-6aa1cd13-b35b-404a-a6c7-07d3d82b4098.png)
+## Project Screenshots
 
+## Home
+![Screenshot 2022-12-24 162449](https://user-images.githubusercontent.com/112747330/209432796-b4fb9e9a-5995-4e35-bc2d-1a8bb7897b9a.jpg)
+![Screenshot 2022-12-24 162505](https://user-images.githubusercontent.com/112747330/209432800-9e01cf19-d1d0-46f9-9069-323abd387017.jpg)
+![Screenshot 2022-12-24 162521](https://user-images.githubusercontent.com/112747330/209432801-43e678be-e173-44d7-8807-2a9c15eca09b.jpg)
 
-   
+## About
+![Screenshot 2022-12-24 162538](https://user-images.githubusercontent.com/112747330/209432808-9a6f917d-1fb0-4712-bd15-4d5406e1a9b9.jpg)
+![Screenshot 2022-12-24 162521](https://user-images.githubusercontent.com/112747330/209432813-4604caef-3ed0-4bd5-b2aa-8c5b1ca6ce54.jpg)
 
-### About Us -
+## Contact US
+![Screenshot 2022-12-24 162550](https://user-images.githubusercontent.com/112747330/209432818-b9d6f0ff-9e26-43b9-9f9d-c03a56b0fc39.jpg)
+![Screenshot 2022-12-24 162521](https://user-images.githubusercontent.com/112747330/209432822-dc8342ac-8695-4532-9b3b-e9efbb2a3233.jpg)
 
+## Azure Services Used
+![Screenshot 2022-12-24 165115](https://user-images.githubusercontent.com/112747330/209433580-24a0e7b6-9ea0-4c36-8b39-b34dec19ceb7.jpg)
+![Screenshot 2022-12-24 165136](https://user-images.githubusercontent.com/112747330/209433582-d3a41916-8068-4931-bb2d-be929b85f3bf.jpg)
 
-![Screenshot (2)](https://user-images.githubusercontent.com/112747330/202755928-49394a13-e16c-40cd-b14b-e203fb081013.png)
-
-### Services -
-
-
-
-### Contact us -
-
-
-
-### health bot
-
-
-
-
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-It’s important to add screenshots, project link, and azure technologies in readme file.
