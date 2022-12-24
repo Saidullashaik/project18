@@ -21,6 +21,8 @@ Static Web App URL : https://green-cliff-01504af00.2.azurestaticapps.net/
 
 App Services URL : https://gloryluxe.azurewebsites.net/
 
+Demo Video URL : https://github.com/Saidullashaik/project18/blob/main/Glory%20Luxe%20a%20Beauty.mp4
+
 ## My Project Website Link : https://green-cliff-01504af00.2.azurestaticapps.net/contact.html
 
 ## Project Screenshots
